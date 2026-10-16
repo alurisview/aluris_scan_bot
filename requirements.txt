@@ -1,0 +1,6 @@
+pyTelegramBotAPI
+pandas
+pandas_ta
+yfinance
+matplotlib
+pillow
